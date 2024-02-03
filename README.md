@@ -8,3 +8,6 @@ A tribute page project dedicated to the legacy of Dr. APJ Abdul Kalam, the renow
 - **Timeline:** Unfold the key milestones in Dr. Kalam's life, from his early days in Rameswaram to global recognition for his contributions.
 - **Quote:** Reflect on a powerful quote by Dr. R. A. Mashelkar, capturing the enduring inspiration Dr. Kalam provides.
 - **Image:** Visualize the essence of Dr. Kalam's legacy through a carefully selected image.
+
+## Demo
+To view the tribute page, click [here](https://blessy-b-sherin.github.io/Tribute-page/).
